@@ -5,13 +5,13 @@
   "main": "./dist/date-helper.min.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SalvatoreDuran/date-helper.git"
+    "url": "git+https://github.com/DonSalvador/date-helper.git"
   },
   "scripts": {
     "build-js": "babel src/index.js --out-file dist/dateHelper.min.js --presets=es2015,babili",
     "build": "yarn run build-js"
   },
-  "author": "Salvatore Mahave Duran",
+  "author": "Salvador Mahave Duran",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/DonSalvador/date-helper/issues"
