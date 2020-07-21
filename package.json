@@ -1,6 +1,6 @@
 {
   "name": "date-helper",
-  "version": "1.1.6",
+  "version": "1.0.0",
   "description": "A date helper for private projects",
   "main": "./dist/date-helper.min.js",
   "repository": {
