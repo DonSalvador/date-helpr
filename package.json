@@ -11,10 +11,10 @@
     "build-js": "babel src/index.js --out-file dist/dateHelper.min.js --presets=es2015,babili",
     "build": "yarn run build-js"
   },
-  "author": "Salvatore Duran",
+  "author": "Salvatore Mahave Duran",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/salvatoreduran/date-helper/issues"
+    "url": "https://github.com/DonSalvador/date-helper/issues"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
