@@ -1,20 +1,20 @@
 {
-  "name": "date-helper",
+  "name": "date-helpr",
   "version": "1.0.0",
   "description": "A date helper for private projects",
-  "main": "./dist/date-helper.min.js",
+  "main": "./dist/date-helpr.min.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DonSalvador/date-helper.git"
+    "url": "git+https://github.com/DonSalvador/date-helpr.git"
   },
   "scripts": {
-    "build-js": "babel src/index.js --out-file dist/dateHelper.min.js --presets=es2015,babili",
+    "build-js": "babel src/index.js --out-file dist/date-helpr.min.js --presets=es2015,babili",
     "build": "yarn run build-js"
   },
   "author": "Salvador Mahave Duran",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DonSalvador/date-helper/issues"
+    "url": "https://github.com/DonSalvador/date-helpr/issues"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
